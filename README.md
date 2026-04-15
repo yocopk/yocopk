@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer && Web Design Enthusiast</h3>
 <img width="500" align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nfuiesdqvnfj5vf1rluhylz30qrscccaorotijhg&ep=v1_gifs_search&rid=giphy.gif&ct=g"></>
 
-- 🌱 I’m currently learning **Vue**
-
-- 👨‍💻 All of my projects are available at [https://andreawebdev.netlify.app/](https://andreawebdev.netlify.app/)
-
-- 💬 Ask me about **React Components && Tailwind**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **andrea.marchese17@gmail.com**
 
