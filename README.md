@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Andrea%20Marchese&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=yocopk">
-    <img src="https://komarev.com/ghpvc/?username=yocopk&label=Profile%20views&color=00FFFF&style=flat-square" alt="yocopk's profile views" />
-  </a>
-</p>
-
-## 📊 GitHub Stats & Trophies
+<hr/>
 <p align="center">
   <a href="https://github.com/yocopk">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yocopk&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="yocopk's GitHub Stats" />
@@ -18,7 +11,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+<hr/>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -77,8 +70,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yocopk&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/andrea-marchese-18a488285/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Andrea Marchese's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:andrea.marchese17@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Andrea Marchese's Email"/></a>
